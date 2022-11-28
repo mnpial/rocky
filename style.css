@@ -1,0 +1,111 @@
+h3 {
+
+    font-size: 400%;
+    text-align: right;
+    margin: 100px;
+    padding: 20px
+}
+
+.head {
+    box-shadow: none;
+    padding: 30px;
+    text-decoration: none;
+    color: blueviolet;
+}
+
+h1 {
+    font-size: 500px;
+    text-align: center;
+}
+
+span1 {
+    color: skyblue;
+}
+
+span2 {
+    color: red;
+}
+
+span3 {
+    color: yellow;
+}
+
+span4 {
+    color: green;
+}
+
+span5 {
+    color: brown;
+}
+
+h4 {
+    font-size: 50px;
+    padding-top: 0px;
+    background-color: darkgray;
+    background-size: auto;
+    height: 60px;
+    width: 400px;
+    background-position: center;
+    text-align: center;
+}
+
+input {
+    width: 2000px;
+    height: 100px;
+    center
+}
+
+.input {
+    background-color: rgb(190, 194, 194);
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 30px;
+    margin-left: 20px;
+    font-size: 100px;
+
+
+}
+
+.box {
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 3500px;
+    font-size: 100px;
+    display: block;
+    text-align: center;
+
+}
+
+.btn {
+    font-size: 80px;
+    text-align: center;
+
+}
+
+.heads {
+    box-shadow: none;
+    padding: 30px;
+    text-decoration: none;
+    color: red;
+    border-radius: 20px;
+}
+
+button {
+    height: 200px;
+    font-size: 80px;
+    padding: 20px;
+    color: red;
+    border-radius: 20px;
+    position: absolute;
+    left: 50%;
+    height: 200px;
+    font-size: 80px;
+    padding: 20px;
+    color: red;
+    border-radius: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
